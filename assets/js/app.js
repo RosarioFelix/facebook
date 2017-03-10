@@ -1,3 +1,4 @@
+
 var records = document.getElementById('mensaje');
 var reco = document.getElementById('mensaje2');
 
@@ -21,5 +22,5 @@ function validacion(){
     reco.innerHTML= " "
   }
 
-  
+
 };
